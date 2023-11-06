@@ -67,7 +67,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Perera A.A.R.T</h2><p>it202229018@my.sliit.lk</p>
+                <h2>Perera A.A.R.T</h2><p>it20222086@my.sliit.lk</p>
             </div>
         </div>
     );
