@@ -18,7 +18,7 @@ const Home = () => {
                     </h1>
                     <p className="primary-text">
                         Optimizing Coconut supply chain through Data Vizualization, Price and trending product prediction,
-                        Coconut grading and Effecient delivary.
+                        Coconut grading and Finding the most fuel-effecient delivery route.
                     </p>
                     <button className="secondary-button">
                         Get Started <FiArrowRight />{" "}
