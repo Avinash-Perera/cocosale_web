@@ -15,6 +15,7 @@ const Domain = () => {
                     {/* Card 1 */}
                     <div className="card">
                         <h3>Literature Review</h3>
+
                         <p className="pdomain">The current economic crisis in Sri Lanka has exacerbated the complex agricultural marketing process, resulting in significant post-harvest losses of fruits and vegetables. One key issue is the reluctance of farmers to adopt new technologies and the outdated transportation and logistics methods used in the country. To address these challenges, research has focused on leveraging web-based applications and e-commerce systems to streamline the agricultural supply chain. These technologies aim to connect stakeholders, improve crop supply and demand matching, and enhance the efficiency of distribution. Studies have also highlighted the potential of online platforms in empowering farmers, reducing middlemen exploitation, and increasing market access. Furthermore, research in Sri Lanka and other coconut-producing regions has emphasized the need for innovative approaches to tackle supply chain issues, improve coconut yield, and explore new marketing strategies. These findings collectively underscore the importance of modern web and mobile technologies in
                             revolutionizing agricultural supply chain management in terms of quantity, quality, location, and pricing.</p>
                     </div>
@@ -22,6 +23,7 @@ const Domain = () => {
                     {/* Card 2 */}
                     <div className="card">
                         <h3>Research Gap </h3>
+
                         <p className="pdomain">Based on the provided literature review above, the identified research gap is the lack
                             of emphasis on utilizing modern web and mobile-based technologies to enhance the
                             quantity, quality, location, and cost of agricultural supply chain management. Despite
@@ -47,6 +49,7 @@ const Domain = () => {
                     {/* Card 3 */}
                     <div className="card">
                         <h3>Research Problem</h3>
+
                         <p className="pdomain">Based on the above research gap it is evident that even though there are existing
                             systems that has been developed as an E-market place for coconuts there seems to be
                             an absence of utilization of modern web and mobile technology to optimize supplydemand matching in the agricultural industry, specifically in the coconut trade,

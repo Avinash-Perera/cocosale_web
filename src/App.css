@@ -97,7 +97,7 @@ nav {
 }
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #07b215;
+  background-color: #e48f0f;
   outline: none;
   border: none;
   border-radius: 5rem;
@@ -115,7 +115,7 @@ nav {
   font-size: 1.5rem;
 }
 .secondary-button:hover {
-  background-color: #e48f0f;
+  background-color: #009C1F;
 }
 .about-section-container {
   margin-top: 20rem;
@@ -339,8 +339,8 @@ nav {
     justify-content: center;
   }
   .about-section-container {
-    flex-direction: column;
-  }
+      flex-direction: column;
+    }
   .home-image-section,
   .about-section-image-container {
     width: 100%;
@@ -632,4 +632,10 @@ nav {
 }
 .pdomain li {
   margin-top: 5px;
+}
+
+
+.bigger-image {
+  width: 900px;
+  height: 500px;
 }

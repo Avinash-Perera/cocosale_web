@@ -47,7 +47,7 @@ const Navbar = () => {
         <nav>
 
             <div className="nav-logo-container">
-                <Typography variant="h3" style={{ color: '#009C1F'  }}>
+                <Typography variant="h3" style={{ color: '#fe9e0d'  }}>
                     Cocosale
                 </Typography>
             </div>

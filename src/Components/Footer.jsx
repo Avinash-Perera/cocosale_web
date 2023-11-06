@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-wrapper">
             <div className="footer-section-one">
                 <div className="footer-logo-container">
-                    <Typography variant="h3" style={{ color: '#009C1F'  }}>
+                    <Typography variant="h3" style={{ color: '#fe9e0d'  }}>
                         Cocosale
                     </Typography>
                 </div>
@@ -23,11 +23,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer-section-two">
-                {/*<div className="footer-section-columns">*/}
-                {/*    <span>244-5333-7783</span>*/}
-                {/*    /!*<span>Cocosale@gmail.com</span>*!/*/}
 
-                {/*</div>*/}
                 <div className="footer-section-columns">
                     <span>244-5333-7783</span>
                     <span>Cocosale@gmail.com</span>
