@@ -1,7 +1,9 @@
 import React from "react";
-import MapIcon from "../Assets/mapcover.png";
-import ChooseMeals from "../Assets/choose-image.png";
-import DeliveryMeals from "../Assets/delivery-image.png";
+import MapIcon from "../Assets/mapbase.png";
+import Dashboard from "../Assets/dashboard.png";
+import Grading from "../Assets/grading.png";
+import Shortest from "../Assets/shortest.png";
+
 
 const Services = () => {
     const workInfoData = [
@@ -11,17 +13,17 @@ const Services = () => {
             text: "",
         },
         {
-            image: ChooseMeals,
+            image: Dashboard,
             title: "Price Prediction and Trending Products",
             text: " ",
         },
         {
-            image: DeliveryMeals,
+            image: Grading,
             title: "Grading System using Image Processing",
             text: "",
         },
         {
-            image: DeliveryMeals,
+            image: Shortest,
             title: "Finding the most economical Route",
             text: "",
         }

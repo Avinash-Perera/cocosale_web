@@ -41,7 +41,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>De Silva U.D.K</h2><p>it20217136@my.sliit.lk</p>
+                <h2>De Silva U.D.K</h2><p>it20217440@my.sliit.lk</p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={t3} alt="" style={{ width: '100px', borderRadius: '50%' }} />
@@ -54,7 +54,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Jeewakarathne S.S.D.U</h2><p>it20217440@my.sliit.lk</p>
+                <h2>Jeewakaratne S.S.U.D.S</h2><p>it20217136@my.sliit.lk</p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={t4} alt="" style={{ width: '100px', borderRadius: '50%' }} />
