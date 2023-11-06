@@ -28,7 +28,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Perera S.A.A</h2><p>it20246914@my.sliit.lk</p>
+                <h2>Perera S.A.A</h2><p>Map based data vizualization</p><p>it20246914@my.sliit.lk</p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={t2} alt="" style={{ width: '100px', borderRadius: '50%'}} />
@@ -41,7 +41,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>De Silva U.D.K</h2><p>it20217440@my.sliit.lk</p>
+                <h2>De Silva U.D.K</h2><p>Price Prediction and Trending Products</p><p>it20217440@my.sliit.lk</p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={t3} alt="" style={{ width: '100px', borderRadius: '50%' }} />
@@ -54,7 +54,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Jeewakaratne S.S.U.D.S</h2><p>it20217136@my.sliit.lk</p>
+                <h2>Jeewakaratne S.S.U.D.S</h2><p>Grading System for Coconut</p><p>it20217136@my.sliit.lk</p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={t4} alt="" style={{ width: '100px', borderRadius: '50%' }} />
@@ -67,7 +67,7 @@ const AboutTeam = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Perera A.A.R.T</h2><p>it20222086@my.sliit.lk</p>
+                <h2>Perera A.A.R.T</h2><p>Finding the most fuel-efficient route</p><p>it20222086@my.sliit.lk</p>
             </div>
         </div>
     );
