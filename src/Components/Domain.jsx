@@ -100,7 +100,20 @@ const Domain = () => {
                     {/* Card 5 */}
                     <div className="card">
                         <h3>Methodology</h3>
-                        <p>This is the content for Card 5.</p>
+                        <p className="pdomain"> The methodology comprises four distinct research initiatives aimed at revolutionizing the coconut
+                            industry through cutting-edge technologies and data analysis. In the first project, coconut
+                            quality analysis is enhanced using image processing, with two modules—color detection and size
+                            detection—combining to grade coconuts more accurately. Modern tools like TensorFlow enable machine
+                            learning models to identify husk colors and sizes, streamlining the grading process. The second endeavor
+                            focuses on optimizing the coconut supply chain, tackling factors such as price fluctuations, proximity
+                            between buyers and sellers, and effective communication. Advanced algorithms and data visualization
+                            techniques are employed to enhance efficiency and decision-making, with a particular focus on
+                            improving the balance and effectiveness of the coconut market.
+                            The third project introduces a hybrid algorithm for vehicle routing, which calculates the
+                            shortest and most fuel-efficient delivery routes, significantly improving transportation efficiency.
+                            The final research initiative utilizes machine learning for coconut price prediction and trend analysis,
+                            providing valuable insights to market participants. Overall, these projects collectively seek to leverage
+                            modern technologies to boost the quality, efficiency, and sustainability of the coconut industry.</p>
                     </div>
 
                     <div className="card">

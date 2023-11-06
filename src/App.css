@@ -97,7 +97,7 @@ nav {
 }
 .secondary-button {
   padding: 1rem 2.5rem;
-  background-color: #e48f0f;
+  background-color: #009C1F;
   outline: none;
   border: none;
   border-radius: 5rem;
@@ -115,7 +115,7 @@ nav {
   font-size: 1.5rem;
 }
 .secondary-button:hover {
-  background-color: #009C1F;
+  background-color: #e48f0f;
 }
 .about-section-container {
   margin-top: 20rem;
