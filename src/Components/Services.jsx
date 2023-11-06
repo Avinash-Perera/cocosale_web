@@ -32,7 +32,7 @@ const Services = () => {
         <div id="services" className="work-section-wrapper">
             <div className="work-section-top">
                 <p className="primary-subheading">Our Services</p>
-                <h1 className="primary-heading">How We Works</h1>
+                <h1 className="primary-heading">How We Work</h1>
                 <p className="primary-text">
                    Given below are the services we offer from our system to our customers.
                 </p>
