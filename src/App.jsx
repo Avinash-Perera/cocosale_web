@@ -16,6 +16,7 @@ function App() {
               <Home />
               <Domain/>
               <Services />
+             <br/>
               <Milestones/>
              <br/>
               <ProjectResources />

@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="footer-wrapper">
             <div className="footer-section-one">
                 <div className="footer-logo-container">
-                    <Typography variant="h3" style={{ color: '#fe9e0d'  }}>
+                    <Typography variant="h3" style={{ color: '#009C1F'  }}>
                         Cocosale
                     </Typography>
                 </div>
