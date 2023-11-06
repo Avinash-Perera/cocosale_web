@@ -55,17 +55,20 @@ const Navbar = () => {
                 <Link to="home" smooth={true} duration={500}>
                     Home
                 </Link>
-                <Link to="about" smooth={true} duration={500}>
-                    About us
+                <Link to="domain" smooth={true} duration={500}>
+                    Domain
+                </Link>
+                <Link to="services" smooth={true} duration={500}>
+                    Services
+                </Link>
+                <Link to="milestones" smooth={true} duration={500}>
+                    Milestones
+                </Link>
+                <Link to="projectResources" smooth={true} duration={500}>
+                   Project Resources
                 </Link>
                 <Link to="aboutteam" smooth={true} duration={500}>
                     Team
-                </Link>
-                <Link to="contact" smooth={true} duration={500}>
-                    Contact
-                </Link>
-                <Link to="services" smooth={true} duration={500}>
-                    Our Services
                 </Link>
             </div>
             <div className="navbar-menu-container">

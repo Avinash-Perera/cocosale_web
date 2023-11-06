@@ -619,3 +619,17 @@ nav {
   text-decoration: underline;
 }
 
+
+.pdomain {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  margin-left: 20px;
+}
+.pdomain ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+.pdomain li {
+  margin-top: 5px;
+}
