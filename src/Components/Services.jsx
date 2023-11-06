@@ -19,7 +19,7 @@ const Services = () => {
         },
         {
             image: Grading,
-            title: "Grading System using Image Processing",
+            title: "Grading System for Coconut",
             text: "",
         },
         {
