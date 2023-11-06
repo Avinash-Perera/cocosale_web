@@ -24,77 +24,50 @@ const Domain = () => {
                     <div className="card">
                         <h3>Research Gap </h3>
 
-                        <p className="pdomain">Based on the provided literature review above, the identified research gap is the lack
-                            of emphasis on utilizing modern web and mobile-based technologies to enhance the
-                            quantity, quality, location, and cost of agricultural supply chain management. Despite
-                            the availability of numerous web- and mobile-based e-market solutions, there appears
-                            to be a need for research on the potential of e-commerce systems for farmers to enable
-                            them to profit from their labor, improve farming techniques in rural areas, and increase
-                            farmer’s knowledge of crops and crop markets. In addition, there is a need to
-                            investigate the potential of e-commerce as a means of enhancing smallholder farmer’s
-                            access to markets and empowering them to have a more promising future. Up to now
-                            under the researches conducted in this specific research area the below domains have
-                            been identified.
+                        <p className="pdomain">The research identifies several gaps in the field of coconut production and trade in Sri Lanka.
                             <ul>
-                                <li>Agriculture supply chain administration</li>
-                                <li>Commerce online and digital advertising</li>
-                                <li>Coconut-based enterprise and manufacturing</li>
-                                <li> Empowerment of farmers and poverty reduction</li>
-                                <li>Access to the market and direct selling</li>
-                                <li>Performance of businesses and SCM practices</li>
+                                <li>Firstly, there is a lack of a standardized grading system for coconuts, which impacts both producers and consumers in terms of quality and pricing. The proposed solution involves using image processing techniques to create an objective and consistent grading system based on size and color.</li>
+                                <li>Secondly, there is a need for research on utilizing modern web and mobile-based technologies to improve agricultural supply chain management. This includes e-commerce systems for farmers to enhance their profitability and knowledge of crop markets. The proposed system aims to connect buyers with nearest sellers using distance matching algorithms and data visualization techniques.</li>
+                                <li>Thirdly, there is a gap in research on optimizing transportation in the agricultural sector in Sri Lanka. Specifically, there is a need for a hybrid algorithm that considers both the shortest and fuel-efficient paths for multiple destinations. This would be beneficial for improving the efficiency of agricultural transportation.</li>
+                                <li>Lastly, there is a lack of research integrating climate and market data to provide accurate price predictions and trend analysis for the coconut industry. The proposed solution involves developing a machine learning-based dashboard to address this gap, which would contribute to the sustainability and resilience of the coconut industry in Sri Lanka.</li>
                             </ul>
-                            Several of these domains overlap one another.</p>
+                        </p>
                     </div>
 
                     {/* Card 3 */}
                     <div className="card">
                         <h3>Research Problem</h3>
 
-                        <p className="pdomain">Based on the above research gap it is evident that even though there are existing
-                            systems that has been developed as an E-market place for coconuts there seems to be
-                            an absence of utilization of modern web and mobile technology to optimize supplydemand matching in the agricultural industry, specifically in the coconut trade,
-                            resulting in inefficiencies in quantity, quality, location, and price for all stakeholders.
-                            The objective of this research is to develop a web application with a distance-based
-                            matching algorithm and map-based data visualization to facilitate efficient supplydemand matching in the coconut industry. The proposed system will have to cater to
-                            the below needs.
-                            <ul>
-                                <li>Utilize web and mobile technology to improve the supply chain for coconuts.</li>
-                                <li> Enable the efficient matching of supply and demand in terms of quantity,
-                                    quality, location, and cost.</li>
-                                <li>Create a user-friendly interface that meets the requirements of all coconut
-                                    trade industry stakeholders.</li>
-                                <li> Utilize a matching algorithm based on distance to optimize supply-demand
-                                    matching.</li>
-                                <li>Implement map-based data visualization to improve decision-making and
-                                    supply chain efficiency.</li>
-                                <li>Improve the coconut supply chain's transparency and traceability to ensure fair
-                                    trade practices and sustainable production methods.</li>
-                            </ul>
-                            </p>
+                        <p className="pdomain">The research addresses four key problems in the coconut industry
+                            <ol>
+                                <li>Grading System for Coconut Quality Analysis using Image Processing Techniques:
+                                    The absence of a standardized grading system for coconuts in Sri Lanka poses a challenge. The research aims to develop an image processing-based grading system to detect coconut color and size. It seeks to overcome technical challenges, improve accuracy, integrate with the market supply chain, and evaluate potential impacts.</li>
+                                <li>Optimizing the Coconut Supply Chain:
+                                    Existing systems lack modern technology for efficient supply-demand matching in the coconut trade. The research focuses on developing a web application with distance-based matching and map-based visualization to enhance the supply chain. It aims to improve quantity, quality, location, and cost matching, ensuring transparency and traceability.</li>
+                                <li>Development of a Hybrid Algorithm for Vehicle Routing:
+                                    Agriculture transportation in Sri Lanka faces challenges such as high costs and inadequate infrastructure. The research targets the development of a routing algorithm considering both shortest and fuel-efficient paths for single and multiple destinations. It aims to optimize transportation in the agricultural sector.</li>
+                                <li>Optimizing Coconut Trade in the Face of Climate Change:
+                                    Despite existing systems predicting coconut prices, there is a need to incorporate climate data for more accurate forecasts. The research proposes a machine learning-powered dashboard to integrate weather and market data, providing precise price forecasts and trend analysis for the coconut industry. It aims to empower stakeholders with informed decision-making.</li>
+                            </ol>
+                        </p>
                     </div>
 
                     {/* Card 4 */}
                     <div className="card">
                         <h3>Research Objectives</h3>
-                        <p className="pdomain">For creation of this specific purposed system for optimizing supply-demand matching
-                            for coconut trade using a web-based application with map-based data visualization the
-                            identified specific objectives are below,
+                        <p className="pdomain">The main objective is to establish a PWD-enabled coconut e-marketplace in Sri Lanka, revolutionizing the industry. The platform employs advanced image processing for accurate coconut quality analysis, simplifying transactions for all stakeholders. Through user-friendly interfaces and innovative algorithms, it facilitates seamless transactions between buyers, farmers, collectors, and sellers. The system also integrates a hybrid algorithm for optimizing transportation routes, enhancing productivity. Additionally, a machine learning-based dashboard offers precise pricing estimates and trend analysis, empowering coconut industry stakeholders.
+                            <br />
+                            <br />
+                            Specific objectives include:
                             <ul>
-                                <li>To design and develop a web application that permits farmers to register and submit
-                                    information about their coconut harvest, including quantity, quality, and location.</li>
-                                <li> To develop a user-friendly interface that enables consumers to search for available
-                                    coconut products based on their location, desired quality, and budget.</li>
-                                <li>To implement a distance-based matching algorithm that matches buyers with the
-                                    closest available coconut farmers, considering quantity, quality, and price into
-                                    account.</li>
-                                <li> To implement a map-based data visualization that enables users to observe the
-                                    location of available coconut products and nearby farmers.</li>
-                                <li>To evaluate the application's efficacy in facilitating efficient supply-demand
-                                    matching in the coconut trade using a sample of farmers and buyers.</li>
-                                <li>Identify any limitations and enhancement areas in the proposed system and make
-                                    suggestions for future development and research.</li>
+                                <li>Develop a grading system using image processing for coconut quality analysis.</li>
+                                <li> Register and integrate coconut farmers, collectors, and sellers, and implement an algorithm to connect them with buyers, visualizing their locations on a map of Sri Lanka, with order functionality.
+                                </li>
+                                <li>Create a hybrid algorithm for vehicle routing, considering both shortest and fuel-efficient paths for single and multiple destinations.</li>
+                                <li> Develop a machine learning-based dashboard for the coconut industry in Sri Lanka, providing accurate pricing estimates and trend analysis for popular products.</li>
+
                             </ul>
-                            </p>
+                        </p>
                     </div>
 
                     {/* Card 5 */}
@@ -119,17 +92,17 @@ const Domain = () => {
                     <div className="card">
                         <h3>Technologies</h3>
                         <p className="pdomain">Then technologies used are below,
-                        <ul>
-                            <li>Express js</li>
-                            <li>React Js</li>
-                            <li>LeafletJs</li>
-                            <li>OpenStreetMaps</li>
-                            <li>TailwindCss</li>
-                            <li>Python</li>
-                            <li>Flask</li>
-                            <li>OpenCV</li>
-                            <li>MongoDB</li>
-                        </ul>
+                            <ul>
+                                <li>Express js</li>
+                                <li>React Js</li>
+                                <li>LeafletJs</li>
+                                <li>OpenStreetMaps</li>
+                                <li>TailwindCss</li>
+                                <li>Python</li>
+                                <li>Flask</li>
+                                <li>OpenCV</li>
+                                <li>MongoDB</li>
+                            </ul>
                         </p>
 
                     </div>
