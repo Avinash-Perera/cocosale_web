@@ -24,7 +24,7 @@ const Services = () => {
         },
         {
             image: Shortest,
-            title: "Finding the most economical Route",
+            title: "Finding the most fuel-efficient route",
             text: "",
         }
     ];
