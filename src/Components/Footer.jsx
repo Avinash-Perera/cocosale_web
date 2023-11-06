@@ -27,6 +27,7 @@ const Footer = () => {
                 <div className="footer-section-columns">
                     <span>244-5333-7783</span>
                     <span>Cocosale@gmail.com</span>
+                    <span>SLIIT Malabe Campus, New Kandy Rd, Malabe</span>
                 </div>
             </div>
         </div>
